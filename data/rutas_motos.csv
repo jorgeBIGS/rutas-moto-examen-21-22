@@ -1,0 +1,106 @@
+﻿ciudad_inicio;latitud/longitud;fecha_ruta;km;gasolineras;dificultad;zona_descanso;vel_max;vel_min
+Aguadulce;37.25/-4.991359;8/8/2021;32.21;9;alta;True;106;66
+Alanís;38.04/-5.715076;10/7/2021;181.19;8;media;False;100;60
+Albaida del Aljarafe;37.43/-6.166026;;54.45;8;media;True;116;76
+Alcalá de Guadaíra;37.33/-5.84913;2/17/2021;78.7;4;baja;False;94;54
+Alcalá del Río;37.52/-5.978853;7/12/2021;150.82;8;media;True;118;78
+Alcolea del Río;37.61/-5.671275;;128.27;3;media;True;141;101
+Algaba (La);37.46/-6.014001;;162.25;10;baja;True;85;45
+Algámitas;37.02/-5.150206;1/19/2022;26.85;9;baja;True;130;90
+Almadén de la Plata;37.87/-6.080053;9/29/2021;21.03;3;baja;False;84;44
+Almensilla;37.31/-6.114009;;81.68;9;baja;True;98;58
+Arahal;37.26/-5.544516;11/1/2021;113.08;3;alta;False;149;109
+Aznalcázar;37.3/-6.250828;6/3/2021;150.89;1;baja;False;111;71
+Aznalcóllar;37.52/-6.269394;10/25/2021;129.39;3;baja;False;111;71
+Badolatosa;37.31/-4.674225;10/20/2021;148.07;2;baja;False;127;87
+Benacazón;37.35/-6.198981;;101.98;6;baja;False;83;43
+Bollullos de la Mitación;37.34/-6.138735;4/2/2021;190.41;2;media;False;94;54
+Bormujos;37.37/-6.07128;4/6/2021;53.54;6;media;True;116;76
+Brenes;37.55/-5.873083;11/10/2021;146.65;6;baja;True;81;41
+Burguillos;37.59/-5.967466;8/30/2021;156.98;3;media;True;134;94
+Cabezas de San Juan (Las) ;36.98/-5.94008;10/16/2021;21.13;9;alta;False;118;78
+Camas ;37.4/-6.03287;4/5/2021;106.86;6;media;True;132;92
+Campana (La) ;37.57/-5.426364;1/20/2021;88.35;3;baja;False;104;64
+Cantillana ;37.61/-5.826521;8/15/2021;122.2;8;baja;False;102;62
+Cañada Rosal ;37.6/-5.209635;6/2/2021;50.08;3;baja;True;91;51
+Carmona ;37.47/-5.638221;;80.5;1;alta;False;82;42
+Carrión de los Céspedes ;37.37/-6.32885;8/17/2021;163.99;7;baja;False;121;81
+Casariche ;37.29/-4.759777;2/26/2021;93.53;10;baja;False;118;78
+Castilblanco de los Arroyos ;37.67/-5.99014;5/6/2021;34.89;2;alta;True;97;57
+Castilleja de Guzmán ;37.41/-6.058209;3/13/2021;23.24;9;baja;False;121;81
+Castilleja de la Cuesta ;37.39/-6.05272;4/4/2021;83.38;8;alta;False;153;113
+Castilleja del Campo ;37.39/-6.334326;3/13/2021;185.53;3;baja;True;112;72
+Castillo de las Guardas (El) ;37.69/-6.314303;6/19/2021;38.75;6;baja;True;92;52
+Cazalla de la Sierra ;37.93/-5.760459;8/16/2021;31.71;5;media;True;108;68
+Constantina ;37.87/-5.618705;;187.03;6;media;True;104;64
+Coria del Río ;37.29/-6.051526;7/25/2021;194.96;8;media;True;89;49
+Coripe ;36.97/-5.440747;1/24/2021;110.32;2;media;False;147;107
+Coronil (El) ;37.08/-5.633263;;90.31;5;media;False;124;84
+Corrales (Los) ;37.1/-4.983118;10/30/2021;5.69;6;media;False;158;118
+Cuervo de Sevilla (El) ;36.85/-6.040733;3/14/2021;156.15;7;baja;True;87;47
+Dos Hermanas ;37.28/-5.922342;1/6/2022;109.01;5;media;False;87;47
+Écija ;37.54/-5.080175;10/2/2021;40.14;5;media;False;136;96
+Espartinas ;37.38/-6.123121;4/24/2021;71.96;1;media;True;106;66
+Estepa ;37.29/-4.878185;;15.68;6;media;False;127;87
+Fuentes de Andalucía ;37.46/-5.349098;5/16/2021;174.94;4;baja;True;149;109
+Garrobo (El) ;37.63/-6.172389;2/20/2021;131.52;5;baja;False;106;66
+Gelves ;37.34/-6.025137;8/29/2021;58.18;4;alta;False;160;120
+Gerena ;37.53/-6.157673;3/27/2021;99.69;6;baja;False;100;60
+Gilena ;37.25/-4.913288;12/3/2021;52.56;8;alta;True;101;61
+Gines ;37.39/-6.078118;5/9/2021;8.37;9;media;True;85;45
+Guadalcanal ;38.09/-5.820671;8/8/2021;24.33;6;alta;True;87;47
+Guillena ;37.54/-6.052099;7/1/2021;112.39;5;media;True;85;45
+Herrera ;37.36/-4.850463;1/20/2022;58.63;7;media;True;133;93
+Huévar del Aljarafe ;37.36/-6.276693;11/29/2021;115.13;3;alta;False;94;54
+Isla Mayor ;37.13/-6.165388;12/14/2021;143.87;1;alta;False;90;50
+Lantejuela;37.35/-5.22303;8/10/2021;184.49;4;media;True;146;106
+Lebrija ;36.92/-6.078565;1/2/2022;69.33;8;alta;False;117;77
+Lora de Estepa ;37.27/-4.827851;1/18/2022;186;2;baja;True;108;68
+Lora del Río ;37.65/-5.530762;5/3/2021;183.72;10;media;False;117;77
+Luisiana (La) ;37.53/-5.248579;3/20/2021;104.02;1;media;False;140;100
+Madroño (El) ;37.65/-6.512062;3/23/2021;170.28;10;alta;False;133;93
+Mairena del Alcor ;37.37/-5.747687;10/2/2021;162.95;10;alta;True;96;56
+Mairena del Aljarafe ;37.34/-6.065269;4/3/2021;163.39;7;alta;True;136;96
+Marchena ;37.33/-5.416085;9/1/2021;98.99;8;alta;True;111;71
+Marinaleda ;37.37/-4.960971;12/12/2021;66.32;1;media;True;135;95
+Martín de la Jara ;37.11/-4.961842;;160.64;6;media;False;145;105
+Molares (Los) ;37.16/-5.719633;9/5/2021;149.88;5;baja;False;85;45
+Montellano ;37/-5.570829;11/8/2021;35.81;5;alta;True;131;91
+Morón de la Frontera ;37.12/-5.451985;5/11/2021;92.15;2;baja;False;82;42
+Navas de la Concepción (Las) ;37.93/-5.465183;3/13/2021;12.37;1;alta;False;129;89
+Olivares ;37.42/-6.155864;2/13/2021;63.43;10;baja;True;125;85
+Osuna ;37.24/-5.102536;7/24/2021;150.69;9;media;True;138;98
+Palacios y Villafranca (Los) ;37.16/-5.924309;7/24/2021;116.33;3;alta;True;100;60
+Palmar de Troya (El);37.06/-5.803791;;179.37;1;baja;True;154;114
+Palomares del Río ;37.32/-6.05768;12/5/2021;72.97;9;alta;False;151;111
+Paradas ;37.29/-5.497195;7/14/2021;159.29;9;baja;True;88;48
+Pedrera ;37.23/-4.893513;10/14/2021;96.95;6;baja;False;142;102
+Pedroso (El) ;37.84/-5.763444;;6.19;5;media;True;130;90
+Peñaflor ;37.71/-5.346211;3/7/2021;187.09;10;alta;False;101;61
+Pilas ;37.3/-6.302494;9/27/2021;4.32;3;media;True;101;61
+Pruna ;36.97/-5.220973;;88.72;5;alta;True;131;91
+Puebla de Cazalla (La) ;37.22/-5.312343;;167.29;4;alta;False;147;107
+Puebla de los Infantes (La) ;37.78/-5.388922;4/2/2021;31.93;2;alta;False;120;80
+Puebla del Río (La) ;37.27/-6.062643;6/13/2021;187.4;9;baja;True;155;115
+Real de la Jara (El) ;37.95/-6.15548;;162.7;5;alta;True;104;64
+Rinconada (La) ;37.49/-5.979389;5/20/2021;13.75;3;baja;True;159;119
+Roda de Andalucía (La) ;37.2/-4.779205;1/11/2021;44.66;10;alta;True;82;42
+Ronquillo (El) ;37.73/-6.17708;10/20/2021;133.05;5;media;True;115;75
+Rubio (El) ;37.36/-4.988942;6/14/2021;135.36;10;alta;True;99;59
+Salteras ;37.42/-6.111646;9/15/2021;192.88;9;media;True;141;101
+San Juan de Aznalfarache ;37.36/-6.027865;2/3/2021;91.96;4;baja;False;125;85
+San Nicolás del Puerto ;37.99/-5.653005;;132.36;1;alta;True;123;83
+Sanlúcar la Mayor;37.39/-6.201656;;25.47;8;media;False;111;71
+Santiponce;37.44/-6.038483;9/25/2021;103.09;3;media;True;140;100
+Saucejo (El);37.07/-5.096528;7/20/2021;77.79;10;baja;True;80;40
+Tocina;37.61/-5.733054;9/16/2021;20.32;1;baja;True;144;104
+Tomares;37.37/-6.045256;12/13/2021;34.91;8;media;False;82;42
+Umbrete;37.37/-6.158052;2/16/2021;55.1;9;media;False;104;64
+Utrera;37.18/-5.781334;9/28/2021;53.81;7;baja;True;145;105
+Valencina de la Concepción;37.42/-6.076705;9/14/2021;154.06;2;media;True;138;98
+Villamanrique de la Condesa;37.25/-6.307045;;24.79;5;media;False;150;110
+Villanueva de San Juan;37.05/-5.176467;1/9/2022;155.06;8;baja;False;155;115
+Villanueva del Ariscal;37.4/-6.141882;1/13/2021;182.71;1;baja;False;93;53
+Villanueva del Río y Minas;37.66/-5.716611;3/20/2021;122.13;9;baja;False;101;61
+Villaverde del Río;37.59/-5.873701;4/17/2021;161.62;1;alta;False;150;110
+Viso del Alcor (El);37.39/-5.719318;6/19/2021;109.92;3;baja;True;121;81
