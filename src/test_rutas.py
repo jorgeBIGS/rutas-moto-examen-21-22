@@ -1,0 +1,13 @@
+from rutas import *
+
+def test_acumula_kms_por_meses(datos):
+    print(acumula_kms_por_meses(datos))
+
+def test_lee_rutas(datos):
+    print(list(d.zona_descanso for d in datos))
+    print(len(datos))
+
+if __name__ == '__main__':
+    RUTAS = lee_rutas('data/rutas_motos.csv')
+    #test_lee_rutas(RUTAS)
+    test_acumula_kms_por_meses(RUTAS)
